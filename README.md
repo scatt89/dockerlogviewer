@@ -1,4 +1,4 @@
-# dockerlogviewer
+# Docker Log Viewer
 
 A web app to visualize docker logs stored in Elasticsearch.
 
